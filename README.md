@@ -1,1 +1,3 @@
-# Emulator_Gameboy
+# dmg
+
+Nintendo Game Boy emulator
